@@ -1,0 +1,1 @@
+[24-Oct-2021 06:47:06 UTC] PHP Fatal error:  Cannot use temporary expression in write context in /home/ungratta/public_html/application/controllers/Jobs.php on line 136
